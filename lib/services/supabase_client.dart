@@ -1,0 +1,1 @@
+// services/supabase_client.dart placeholder for vetryni_front

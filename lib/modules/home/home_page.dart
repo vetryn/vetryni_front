@@ -1,0 +1,1 @@
+// modules/home/home_page.dart placeholder for vetryni_front

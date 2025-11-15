@@ -1,0 +1,1 @@
+// core/theme_loader.dart placeholder for vetryni_front
