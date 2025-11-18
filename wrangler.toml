@@ -1,0 +1,16 @@
+name = "vetryni_front"
+main = "index.js"
+compatibility_date = "2025-11-15"
+
+# ⚠️ Para Workers Sites estáticos via diretório
+[site]
+bucket = "build/web"
+
+# Substitui o erro do entry-point removendo `entry-point`
+# O Workers Sites já reconhece automaticamente
+
+# (Opcional) Subdomínio de preview se estiver usando domínio personalizado
+# routes = [{ pattern = "gabriel.vetryni.com.br/*", zone_id = "SEU_ZONE_ID" }]
+
+# ⚙️ Configure sua conta real aqui
+account_id = "9a5ef7613421d3f5e0e94e14e8947aa8"
